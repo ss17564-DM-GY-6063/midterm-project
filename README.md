@@ -1,60 +1,23 @@
-# p5.js Template
+# Project Proposal
+## Ted Chiang - Science Fiction - The Universe - Space
 
-This is a README file that can be used to describe and document your assignment.
+I have selected the book "Exhalation," a science fiction short story authored by Ted Chiang. The central theme of this story revolves around entropy and the flow of air (exhalation), serving as a metaphor for the gradual decline of energy and the ultimate fate of the universe.
 
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
+**Project Description:**
 
----
----
+1. **Cover Design**: The project will begin with the creation of an interactive book cover that immediately conveys the science fiction theme. The cover will feature elements of twinkling stars, resembling the vastness of the universe and space.
 
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
+2. **Interactive Elements**: The cover itself will be interactive and responsive to user engagement. Upon interaction, it will release glowing particles, and the patterns will dynamically change based on the movement of the user's mouse cursor.
 
-**bold text**
+3. **Dynamic Visuals**: To achieve this, I plan to utilize the `random()` function and explore the possibility of integrating external images to enhance the visual richness of the project.
 
-*italicized text*
+4. **Music Interaction**: Inspired by a theme I encountered in my research materials regarding music interaction, I intend to incorporate music into the project. However, the specifics of how music and visuals will interact are yet to be determined. This will be a creative challenge I'm eager to explore.
 
-~~strikethrough text~~
+**Style References and Sketches**:
 
-Ordered List:
-1. First item
-2. Second item
-3. Third item
+I have included style references and preliminary sketches to guide the project's visual aesthetics. These references will help me create a visually engaging and thematically appropriate interactive cover design for "Exhalation."
 
-Unordered List:
-- First item
-- Second item
-- Third item
+![reference book cover](https://imgpile.com/images/DATJzh.jpg)
 
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
-
-
-Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+By combining science fiction elements, interactivity, dynamic visuals, and music, I aim to provide an immersive and captivating experience for readers, enticing them to explore the themes of the story in an engaging and visually stunning manner.
+![sketch.jpg](https://imgpile.com/images/DATPvE.jpg)
