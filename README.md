@@ -21,3 +21,14 @@ I have included style references and preliminary sketches to guide the project's
 
 By combining science fiction elements, interactivity, dynamic visuals, and music, I aim to provide an immersive and captivating experience for readers, enticing them to explore the themes of the story in an engaging and visually stunning manner.
 ![sketch.jpg](https://imgpile.com/images/DATPvE.jpg)
+
+
+# Milestone 2
+### the main animation
+In the main animation, viewers'll see several twinkling stars connected by lines that gradually disappear as the stars move apart. To achieve this effect, I used Array and State Variables. I started by drawing the points, and the twinkling effect was created by inserting a PNG image.
+
+#### speed
+When it comes to adjusting the speed, I experimented with various values. I aimed to simulate the movement of constellations in the real world. However, this change is too tiny to perceive. So, I settled for a slower speed that allows for more noticeable alterations.
+
+### future plan
+My future plans involve applying the text animation effects I learned this week to the elements on the cover. One idea is to select excerpts from the book, break them down into individual letters, assign random transparency, and place them as elements in the sky on the book's cover.
