@@ -32,3 +32,5 @@ When it comes to adjusting the speed, I experimented with various values. I aime
 
 ### future plan
 My future plans involve applying the text animation effects I learned this week to the elements on the cover. One idea is to select excerpts from the book, break them down into individual letters, assign random transparency, and place them as elements in the sky on the book's cover.
+
+# Milestone 3
