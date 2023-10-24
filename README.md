@@ -42,6 +42,10 @@ I extracted my favorite passage from the story "Exhalation," where an anatomist 
 
 ### Interface Transition
 I noticed that the draw function for the text animation doesn't require a background refresh every time. However, for the star animation, I needed to update the background with each change in position. So, I split them into two parts. It seems that if both are included in the draw function, it may cause conflicts and errors. I used mouseMoved to control one of them. This way, I almost achieved the effect I wanted. However, there are still some minor bugs in transitioning between the two effects. I'm actively working on making the default animation the text animation, which switches to the cover animation when clicked by the mouse.
+#### update
+After communicating with the professor, this challenge was successfully resolved, and there were improvements made in the text animation. We used a for() loop instead of an if() statement, ensuring that each update results in a new canvas.
+
+I also learned how to control the animation speed using frameCount, which was a significant help for me!
 
 ### Other Discoveries
 I've had an enriching learning experience from the repositories and tutorials shared in the Syllabus each week. One particular example that stood out to me is the following: [Link](https://editor.p5js.org/thiagohersan/sketches/pWdH1yVQU)
