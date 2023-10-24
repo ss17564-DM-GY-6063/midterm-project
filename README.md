@@ -38,7 +38,7 @@ My future plans involve applying the text animation effects I learned this week 
 This week, I made some attempts with text animation and interface transitions.
 
 ### Text Animation
-I extracted my favorite passage from the story "Exhalation," where an anatomist discovers the workings of the world: "Air is not the source of life. Air can neither be created nor destroyed..." To create a decorative text effect, I separated the words into individual letters and displayed them from left to right and top to bottom on the screen. I also adjusted their alpha value randomly, creating a flickering atmosphere.
+I extracted my favorite passage from the story "Exhalation," where an anatomist discovers the workings of the world: "Air is not the source of life. Air can neither be created nor destroyed..." To create a decorative text effect, I separated the words into individual and displayed them from left to right and top to bottom on the screen. I also adjusted their alpha value randomly, creating a flickering atmosphere.
 
 ### Interface Transition
 I noticed that the draw function for the text animation doesn't require a background refresh every time. However, for the star animation, I needed to update the background with each change in position. So, I split them into two parts. It seems that if both are included in the draw function, it may cause conflicts and errors. I used mouseMoved to control one of them. This way, I almost achieved the effect I wanted. However, there are still some minor bugs in transitioning between the two effects. I'm actively working on making the default animation the text animation, which switches to the cover animation when clicked by the mouse.
